@@ -1,0 +1,12 @@
+__pycache__/
+*.log
+.env
+.DS_Store
+*.csv
+*.xlsx
+data/
+tmp/
+.venv/
+.gradio/
+agents/__pycache__/
+modal_utils/__pycache__/

@@ -45,6 +45,13 @@ bash
 
 python movie_plot_search_engine.py
 ```
-
-# Example
+### Example
 [Program's operation example](https://drive.google.com/file/d/1ze3mG20PBl1q7WGFaqCghkBYzubBirzK/view?usp=drive_link)
+
+<br><br>
+
+## Author
+*Dmitry Badeev* 
+
+### License
+This project is licensed under the MIT License.

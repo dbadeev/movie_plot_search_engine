@@ -66,7 +66,7 @@ image = (
         "rm -rf /tmp/punkt*"
     )
     .add_local_dir("modal_utils", remote_path="/root/modal_utils")
-    .add_local_dir("local_utils", remote_path="/root/local_utils")
+    # .add_local_dir("local_utils", remote_path="/root/local_utils")
     .add_local_dir("agents", remote_path="/root/agents")
 )
 

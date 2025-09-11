@@ -48,6 +48,7 @@ python movie_plot_search_engine.py
 ### Example
 [Program's operation example](https://drive.google.com/file/d/1ze3mG20PBl1q7WGFaqCghkBYzubBirzK/view?usp=drive_link)
 
+More detailed description of the pipeline (in Russian) is in the [wiki]().
 <br><br>
 
 ## Author
